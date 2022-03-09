@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/vikramathreya290438/Testing1/_apis/build/status/Vikram295.ContosoAir?branchName=master)](https://dev.azure.com/vikramathreya290438/Testing1/_build/latest?definitionId=4&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
